@@ -4,7 +4,7 @@
 Uygulamaların çalıştığı, Kubernetes objelerinin gerçekten barındığı node'lardır. Worker node şu bileşenleri içerir:
 
 
-![control-plane](images/worker-node.png "control-plane")
+![control-plane](images/worker-node.png "worker-node")
 
 
 # Kubelet
